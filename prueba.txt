@@ -1,0 +1,19 @@
+Clase hola(){
+Ent edad=> 5;-;
+Ent edad2=>8;-;
+Ent edad3=> 51;-;
+Ent cantidad =>25;-;
+Flot precio => 7.7  ;-;
+Imprimir (precio) ;-;
+suma + suma2  ;-;
+
+ciclo (  sueldo => 5 ;-; Boo ;-; sueldo++ ){
+ Ent dia ++ ;-;
+  }
+
+segun (dia){
+caso Ent: Flot precio => 7.7  ;-; Detener ;-;
+  predeterminado: Ent cantidad =>25;-; Detener ;-;
+     }
+
+}
